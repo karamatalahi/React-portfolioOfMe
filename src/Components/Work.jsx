@@ -14,6 +14,7 @@ const Work = () => {
                 title = {card.title}
                 text = {card.text}
                 view = {card.view}
+                source = {card.source}
             />
         )
      })}
